@@ -169,7 +169,7 @@ The decomposition tree allows revenue to be explored across multiple dimensions.
 
 ### Executive Dashboard
 
-![Executive Dashboard](Screenshots/executive-dashboard.png)
+![Executive Dashboard](Screenshots/Executive Dashboard.png)
 
 ### Product Analysis
 
