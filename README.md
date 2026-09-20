@@ -246,6 +246,12 @@ This project demonstrates practical skills in:
 
 ---
 
+## 📥 Download Power BI Dashboard
+
+[Download Olist E-commerce Dashboard (.pbix)]([YOUR_LINK_HERE](https://drive.google.com/file/d/1WDoOFKl33xXndc59WLyKEOmr33tsDWgY/view?usp=drive_link))
+
+---
+
 ## 👨‍💻 Author
 
 **Vicky V. Ingle**
